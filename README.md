@@ -1,0 +1,1 @@
+Final project bringing together HTML, CSS, and JavaScript to create a complete, responsive, and functional interface. The goal is to demonstrate mastery of front-end fundamentals, good coding practices, and the construction of modern layouts for a portfolio.
