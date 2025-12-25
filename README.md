@@ -22,7 +22,7 @@ The project simulates a real product website and focuses on building solid found
 - Version control with Git and GitHub
 
 ## Live Preview
-gabfrancadev.github.io/bikcraft/
+https://gabfrancadev.github.io/bikcraft/
 
 ## Image Credits
 Images used in this project belong to Origamid and are used strictly for educational purposes.
